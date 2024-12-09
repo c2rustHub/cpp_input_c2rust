@@ -1,5 +1,5 @@
 [package]
-name = "cpp_to_rust_conversion"
+name = "cpp_to_rust_translator"
 version = "0.1.0"
 edition = "2021"
 
