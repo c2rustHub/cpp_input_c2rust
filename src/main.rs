@@ -1,5 +1,4 @@
-// main.rs
-
+// Importing the add module
 mod add;
 
 fn main() {
